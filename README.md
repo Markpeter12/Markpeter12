@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Markpeter12
+- 👋 Hi, I’m @Markpeter
 - 👀 I’m interested in web 3 and the blockchain technology
 - 🌱 I’m currently learning how to bring things to life using solidity
 - 💞️ I’m looking to collaborate on how to be a better version of myself
